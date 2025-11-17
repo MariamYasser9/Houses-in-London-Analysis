@@ -10,7 +10,7 @@ The analysis was performed using **Python**, **Pandas**, **Matplotlib**, and **S
 
 ## 🧩 Dataset Information
 **Source:** [Kaggle – Houses in London Dataset](https://www.kaggle.com/datasets/oktayrdeki/houses-in-london/data)  
-**Rows:** *1000* (varies depending on filtering)  
+**Rows:** *1000*
 **Columns:** *17*  
 
 ### **Main Features:**
